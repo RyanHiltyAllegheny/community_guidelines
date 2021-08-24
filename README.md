@@ -4,6 +4,12 @@
 
 ### Interactions in class
 
+TODO
+
 ### Interactions during the lab
 
+TODO
+
 ### Team work
+
+TODO
