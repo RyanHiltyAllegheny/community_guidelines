@@ -14,6 +14,10 @@ TODO
 
 TODO
 
+### Interactions on GitHub
+
+TODO
+
 ### Team work
 
 TODO
