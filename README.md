@@ -20,4 +20,4 @@ TODO
 
 ### Team work
 
-TODO
+Teamwork is the foundation of a successful programming experience. Allowing for collaboration and collectivity enhances the learning performance and experience. Using teamwork effectively creates opportunities for individuals and groups to thrive. 
